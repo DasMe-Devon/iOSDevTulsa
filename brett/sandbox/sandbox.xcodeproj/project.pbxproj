@@ -302,6 +302,7 @@
 				F696E4FE1BC0354E0072A318 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

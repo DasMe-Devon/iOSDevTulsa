@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5DF9786E1BC97B0900E3E1BF /* Pew_Pew.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5DF9786D1BC97B0900E3E1BF /* Pew_Pew.wav */; settings = {ASSET_TAGS = (); }; };
+		5DB565B01BE671320005F3C1 /* smile_man_KS81706.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5DB565AF1BE671320005F3C1 /* smile_man_KS81706.jpg */; };
+		5DF9786E1BC97B0900E3E1BF /* Pew_Pew.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5DF9786D1BC97B0900E3E1BF /* Pew_Pew.wav */; };
 		81A4FEFA1BC0383B00778D2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A4FEF91BC0383B00778D2B /* AppDelegate.swift */; };
 		81A4FEFC1BC0383B00778D2B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A4FEFB1BC0383B00778D2B /* ViewController.swift */; };
 		81A4FEFF1BC0383B00778D2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81A4FEFD1BC0383B00778D2B /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5DB565AF1BE671320005F3C1 /* smile_man_KS81706.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = smile_man_KS81706.jpg; sourceTree = "<group>"; };
 		5DF9786D1BC97B0900E3E1BF /* Pew_Pew.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Pew_Pew.wav; sourceTree = "<group>"; };
 		81A4FEF61BC0383B00778D2B /* cwltest1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cwltest1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		81A4FEF91BC0383B00778D2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				5DF9786D1BC97B0900E3E1BF /* Pew_Pew.wav */,
 				81A4FEFD1BC0383B00778D2B /* Main.storyboard */,
 				81A4FF001BC0383B00778D2B /* Assets.xcassets */,
+				5DB565AF1BE671320005F3C1 /* smile_man_KS81706.jpg */,
 				81A4FF021BC0383B00778D2B /* LaunchScreen.storyboard */,
 				81A4FF051BC0383B00778D2B /* Info.plist */,
 			);
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5DB565B01BE671320005F3C1 /* smile_man_KS81706.jpg in Resources */,
 				81A4FF041BC0383B00778D2B /* LaunchScreen.storyboard in Resources */,
 				81A4FF011BC0383B00778D2B /* Assets.xcassets in Resources */,
 				5DF9786E1BC97B0900E3E1BF /* Pew_Pew.wav in Resources */,

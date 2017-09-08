@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3AA4D16B-D709-40E0-B854-3EC5D85BC970</string>
+	<key>IDESourceControlProjectName</key>
+	<string>sandbox</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5963A1966CC33F53C248D722961B69780C026812</key>
+		<string>https://github.com/DasMe-Devon/iOSDevTulsa.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>brett/sandbox/sandbox.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5963A1966CC33F53C248D722961B69780C026812</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DasMe-Devon/iOSDevTulsa.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5963A1966CC33F53C248D722961B69780C026812</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5963A1966CC33F53C248D722961B69780C026812</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSDevTulsa</string>
+		</dict>
+	</array>
+</dict>
+</plist>
